@@ -1,0 +1,1 @@
+Asset Bank host resources like images, fonts and sound files that is needed for android application development
